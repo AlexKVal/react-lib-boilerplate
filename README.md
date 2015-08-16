@@ -1,15 +1,20 @@
 # React components boilerplate
 
-`Babel`
-`Webpack`
-`eslint` with `standard` configuration
-`mocha`
+Features
+--
+- `Babel`
+- `Webpack`
+- `Eslint` with `Standard` configuration
+- `Mocha`
+- Source maps included in all builds
+- Development server with hot reload when possible and refresh otherwise
 
-`npm run test` - runs linting and mocha tests
-`npm run coverage` - report is in `coverage` folder
-`npm run build` - builds `lib` and `dist` folders
+Scripts
+--
+- `npm run test` - runs linting and mocha tests
+- `npm run coverage` - generate coverage report to `coverage` folder
+- `npm run build` - builds `lib` and `dist` folders
+- `npm run tdd` - Test Driven Development
+- `npm run site` - run local server with examples and hot-reloading
 
-`npm run tdd` - Test Driven Development
-`npm run site` - run local server with examples
-
-Inspired by https://github.com/gaearon/library-boilerplate
+###### Inspired by https://github.com/gaearon/library-boilerplate

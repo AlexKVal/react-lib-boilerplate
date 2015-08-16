@@ -1,0 +1,21 @@
+{
+  "extends": ["standard", "standard-react"],
+  "parser": "babel-eslint",
+  "plugins": [
+    "react",
+    "standard"
+  ],
+  "env": {
+    "mocha": true
+  },
+  "globals": {
+    "assert": true,
+    "expect": true,
+    "sinon": true
+  },
+  "rules": {
+    "standard/object-curly-even-spacing": [2, "either"],
+    "standard/array-bracket-even-spacing": [2, "either"],
+    "standard/computed-property-even-spacing": [2, "even"]
+  }
+}

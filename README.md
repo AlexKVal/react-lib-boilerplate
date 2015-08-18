@@ -15,6 +15,6 @@ Scripts
 - `npm run coverage` - generate coverage report to `coverage` folder
 - `npm run build` - builds `lib` and `dist` folders
 - `npm run tdd` - Test Driven Development
-- `npm run site` - run local server with examples and hot-reloading
+- `npm run docs` - run local server with example(s) and hot-reloading
 
 ###### Inspired by https://github.com/gaearon/library-boilerplate

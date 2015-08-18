@@ -1,3 +1,5 @@
+/* eslint babel/object-shorthand: 0 */
+
 'use strict'
 
 var webpack = require('webpack')
